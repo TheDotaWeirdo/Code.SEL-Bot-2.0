@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfConnect4Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Connect4Data>
+    <ID>0</ID>
+    <P1>155955179852791809</P1>
+    <P2>317261382900908033</P2>
+    <Starter>155955179852791809</Starter>
+    <Winner>0</Winner>
+    <Difficulty>100</Difficulty>
+    <vsAI>true</vsAI>
+    <Moves>44444551215662211765777</Moves>
+  </Connect4Data>
+  <Connect4Data>
+    <ID>1</ID>
+    <P1>155955179852791809</P1>
+    <P2>317261382900908033</P2>
+    <Starter>155955179852791809</Starter>
+    <Winner>1</Winner>
+    <Difficulty>100</Difficulty>
+    <vsAI>true</vsAI>
+    <Moves>444447323624332665221663632775</Moves>
+  </Connect4Data>
+</ArrayOfConnect4Data>
